@@ -1,42 +1,56 @@
-# Sridip Basu
+MS AI & ML · Statistics · Climate AI · Applied Systems
 
-- 🎓 MS AI & ML candidate at IIIT Lucknow and B.Sc. Statistics & Mathematics from Bangalore University.
+---
 
-- 🌏 Interested in machine learning systems, climate resilience, statistical modeling, and applied AI research.
+> Building end-to-end AI systems at the intersection of **machine learning**, **climate resilience**, and **statistical modeling** — currently at IIIT Lucknow + Bangalore University.
 
-- 🚀 Building end-to-end AI systems focused on flood prediction, smart agriculture, AML, and environmental intelligence.
+&nbsp;
 
-<br>
+### What I work on
 
-## 🔗 Links
+- 🌊 Flood prediction & environmental intelligence
+- 🌾 Smart agriculture systems
+- 🏦 AML (Anti-Money Laundering) detection
+- 📊 Statistical modeling & applied research
 
-- [Projects](https://github.com/yourusername?tab=repositories) — Things I've built
+&nbsp;
 
-- [Kaggle](https://kaggle.com/yourprofile) — Competitions & notebooks
+### Stack
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🌐 Elsewhere
+&nbsp;
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+### A few highlights
 
-- [Kaggle](https://kaggle.com/yourprofile)
+- 🏆 Finalist — Meta PyTorch OpenEnv Hackathon
+- 🥇 Kaggle Expert
+- 🔬 Research Assistant — Bangalore University
+- 🏛️ Data Science Intern — Climate Resilience Observatory, Govt. of UP
 
-<br>
+&nbsp;
 
-## 🏆 Work & Achievements
+### Find me
 
-- Finalist — Meta PyTorch OpenEnv Hackathon
+[LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;·&nbsp;
+[Kaggle](https://kaggle.com/yourprofile) &nbsp;·&nbsp;
+[sridip.zui@gmail.com](mailto:sridip.zui@gmail.com)
 
-- Research & ML projects in Climate AI and Applied ML Systems
+&nbsp;
 
-- Kaggle Expert & Open Source Learner
-
-<br>
-
-## 📈 Contribution Graph
+---
 
 <p align="center">
-  <img src="https://github.com/sridipbasu/sridipbasu/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-  <img src="https://github.com/sridipbasu/sridipbasu/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
