@@ -2,8 +2,7 @@ MS AI & ML · Statistics · Climate AI · Applied Systems
 
 ---
 
-> Building end-to-end AI systems at the intersection of **machine learning**, **climate resilience**, and **statistical modeling** — currently at IIIT Lucknow + Bangalore University.
-
+> Building end-to-end AI systems at the intersection of **machine learning**, **climate resilience**, and **statistical modeling** currently at Indian Institute of Information Technology, Lucknow [IIIT Lucknow]
 &nbsp;
 
 ### What I work on
