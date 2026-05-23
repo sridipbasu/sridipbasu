@@ -8,9 +8,6 @@ MS AI & ML · Statistics · Climate AI · Applied Systems
 ### What I work on
 
 - 🌊 Flood prediction & environmental intelligence
-- 🌾 Smart agriculture systems
-- 🏦 AML (Anti-Money Laundering) detection
-- 📊 Statistical modeling & applied research
 
 &nbsp;
 
@@ -30,7 +27,7 @@ MS AI & ML · Statistics · Climate AI · Applied Systems
 ### A few highlights
 
 - 🏆 Finalist — Meta PyTorch OpenEnv Hackathon
-- 🥇 Kaggle Expert
+- 🧠 Kaggle Expert
 - 🔬 Research Assistant — Bangalore University
 - 🏛️ Data Science Intern — Climate Resilience Observatory, Govt. of UP
 
