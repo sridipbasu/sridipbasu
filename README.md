@@ -1,14 +1,15 @@
-MS AI & ML · Statistics · Climate AI · Applied Systems
+MS AI & ML  · ML Systems · Applied Systems
 
 ---
 
-> Building end-to-end AI systems at the intersection of **machine learning**, **climate resilience**, and **statistical modeling** currently at Indian Institute of Information Technology, Lucknow [IIIT Lucknow]
+> Building end-to-end AI systems at the intersection of **machine learning**, and **statistical modeling** currently at Indian Institute of Information Technology, Lucknow [IIIT Lucknow]
 &nbsp;
 
 ### What I work on
 
 - 🌊 Flood prediction & environmental intelligence
 - ⚙️ Building deterministic OpenEnv benchmarks, agent environments, and LLM-driven simulation systems
+- 🌍 Open Source Contributor
 
 &nbsp;
 
@@ -43,7 +44,7 @@ MS AI & ML · Statistics · Climate AI · Applied Systems
 
 [LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;·&nbsp;
 [Kaggle](https://kaggle.com/yourprofile) &nbsp;·&nbsp;
-[sridip.zui@gmail.com](mailto:sridip.zui@gmail.com)
+[sridip.zui@gmail.com](mailto:sridip.zui@gmail.com) &nbsp;·&nbsp;
 [My Website](https://sridipbasu.github.io/)
 
 &nbsp;
