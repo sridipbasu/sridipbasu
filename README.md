@@ -1,60 +1,53 @@
-MS AI & ML  · ML Systems · Applied Systems
+# Sridip Basu
+
+AI/Research Engineer building systems that actually work in the real world
+flood prediction models, LLM-driven agents, and open benchmarks for evaluating
+AI behavior. Currently at IIIT Lucknow (MS, AI & ML).
+
+I care about research that ships.
 
 ---
 
-> Building end-to-end AI systems at the intersection of **machine learning**, and **statistical modeling** currently at Indian Institute of Information Technology, Lucknow [IIIT Lucknow]
-&nbsp;
+## What I Build
 
-### What I work on
+**Flood Prediction & Environmental Intelligence**
+End-to-end ML pipeline for flood forecasting using geospatial + temporal data.
+Built during internship at Climate Resilience Observatory, Govt. of UP.
 
-- 🌊 Flood prediction & environmental intelligence
-- ⚙️ Building deterministic OpenEnv benchmarks, agent environments, and LLM-driven simulation systems
-- 🌍 Open Source Contributor
+**OpenEnv Benchmark System**
+Deterministic agent environments and LLM simulation benchmarks built with PyTorch.
+Finalist at Meta PyTorch OpenEnv Hackathon.
 
-&nbsp;
 
-### Stack
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=xgboost&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## Currently Working On
 
-&nbsp;
+- Scaling OpenEnv benchmark suite for multi-agent LLM evaluation
+- Research assistantship at Bangalore University — [topic if shareable]
+- Open to collaborations on LLM evaluation, env simulation, applied ML for climate
 
-### A few highlights
+---
 
-- 🏛️ Data Science Intern: Climate Resilience Observatory, Govt. of UP
-- 🏆 Finalist: Meta PyTorch OpenEnv Hackathon
+## Stack
+
+**Core:** Python · PyTorch · HuggingFace · scikit-learn · XGBoost
+**Infra:** FastAPI · Docker · MLflow · AWS
+**Data:** SQL · Power BI
+
+---
+
+## A Few Things Worth Knowing
+
+- 🏆 Finalist — Meta PyTorch OpenEnv Hackathon
+- 🏛️ Data Science Intern — Climate Resilience Observatory, Govt. of UP
+- 🔬 Research Assistant — Bangalore University
 - 🧠 Kaggle Expert
-- 🔬 Research Assistant: Bangalore University
-
-&nbsp;
-
-### Find me
-
-[LinkedIn](https://linkedin.com/in/yourprofile) &nbsp;·&nbsp;
-[Kaggle](https://kaggle.com/yourprofile) &nbsp;·&nbsp;
-[sridip.zui@gmail.com](mailto:sridip.zui@gmail.com) &nbsp;·&nbsp;
-[My Website](https://sridipbasu.github.io/)
-
-&nbsp;
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/sridipbasu/sridipbasu/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+## Let's Talk
+
+Open to **AI/Research Engineer roles**  remote or onsite.
+
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourprofile) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
