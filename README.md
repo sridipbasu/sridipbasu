@@ -24,7 +24,6 @@ Finalist at Meta PyTorch OpenEnv Hackathon.
 ## Currently Working On
 
 - Scaling OpenEnv benchmark suite for multi-agent LLM evaluation
-- Research assistantship at Bangalore University — [topic if shareable]
 - Open to collaborations on LLM evaluation, env simulation, applied ML for climate
 
 ---
