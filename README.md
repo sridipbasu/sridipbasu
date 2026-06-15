@@ -23,8 +23,9 @@ Finalist at Meta PyTorch OpenEnv Hackathon.
 
 ## Currently Working On
 
-- Scaling OpenEnv benchmark suite for multi-agent LLM evaluation
-- Open to collaborations on LLM evaluation, env simulation, applied ML for climate
+- Building a consumer complaint risk analytics pipeline using CFPB complaint data
+- Expanding the project with narrative-based risk detection using NLP techniques
+- Open to collaborations on risk analytics, compliance analytics, and applied machine learning
 
 ---
 
