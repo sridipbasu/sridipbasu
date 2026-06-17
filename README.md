@@ -51,3 +51,16 @@ Finalist at Meta PyTorch OpenEnv Hackathon.
 Open to **AI/Research Engineer roles**  remote or onsite.
 
 [LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourprofile) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sridipbasu&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sridipbasu&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sridipbasu&theme=github_dark" width="49%" />
+</p>
