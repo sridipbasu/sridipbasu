@@ -53,10 +53,17 @@ Open to **AI/Research Engineer roles**  remote or onsite.
 [LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourprofile) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridipbasu&theme=github-dark&color=ff0000&line=ff0000&point=ff0000"/>
+  <a href="https://github.com/sridipbasu/rbi-regulatory-rag-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=rbi-regulatory-rag-chatbot&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/sridipbasu/kaggle-notebooks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=kaggle-notebooks&theme=radical&hide_border=true" />
+  </a>
 </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridipbasu&theme=github-dark&color=ff0000&line=ff0000&point=ff0000"/> </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridipbasu&theme=highcontrast"/>
 </p>
