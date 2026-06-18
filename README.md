@@ -10,13 +10,17 @@ I care about research that ships.
 
 ## What I Build
 
-**Flood Prediction & Environmental Intelligence**
-End-to-end ML pipeline for flood forecasting using geospatial + temporal data.
-Built during internship at Climate Resilience Observatory, Govt. of UP.
+**Regulatory AI & RAG Systems**
+Building retrieval-augmented AI applications that transform complex regulatory documents into searchable, explainable knowledge systems. Developed an RBI Regulatory RAG Chatbot for compliance-focused question answering and regulatory intelligence.
 
-**OpenEnv Benchmark System**
-Deterministic agent environments and LLM simulation benchmarks built with PyTorch.
-Finalist at Meta PyTorch OpenEnv Hackathon.
+**Machine Learning & Data Science Projects**
+Developing end-to-end ML, NLP, and analytics solutions across risk intelligence, forecasting, and real-world datasets. Maintains a growing portfolio of Kaggle projects covering predictive modeling, NLP, and data-driven decision making.
+
+**Flood Prediction & Environmental Intelligence**
+Building flood forecasting models using rainfall, soil moisture, terrain, and hydrological features for district-level risk assessment.
+
+**AI Research & Benchmarking**
+Designed deterministic agent environments and evaluation frameworks for LLM benchmarking and simulation research. Finalist at the Meta PyTorch OpenEnv Hackathon.
 
 
 ---
