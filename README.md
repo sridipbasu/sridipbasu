@@ -59,10 +59,11 @@ Open to **AI/Research Engineer roles**  remote or onsite.
 ---
 <p align="center">
   <a href="https://github.com/sridipbasu/rbi-regulatory-rag-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=rbi-regulatory-rag-chatbot&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=rbi-regulatory-rag-chatbot&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&cache_seconds=1&v=1" />
   </a>
+
   <a href="https://github.com/sridipbasu/kaggle-notebooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=kaggle-notebooks&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=kaggle-notebooks&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&cache_seconds=1&v=1" />
   </a>
 </p>
 
