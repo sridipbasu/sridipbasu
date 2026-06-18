@@ -67,7 +67,3 @@ Open to **AI/Research Engineer roles**  remote or onsite.
 </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridipbasu&theme=github-dark&color=ff0000&line=ff0000&point=ff0000"/> </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridipbasu&theme=highcontrast"/>
-</p>
