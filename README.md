@@ -54,7 +54,7 @@ Designed deterministic agent environments and evaluation frameworks for LLM benc
 
 Open to **AI/Research Engineer roles**  remote or onsite.
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/yourprofile) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Kaggle](https://kaggle.com/sridipbasu) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
 
 ---
 <p align="center">
