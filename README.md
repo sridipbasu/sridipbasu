@@ -66,5 +66,3 @@ Open to **AI/Research Engineer roles**  remote or onsite.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=kaggle-notebooks&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&cache_seconds=1&v=1" />
   </a>
 </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridipbasu&theme=github-dark&color=ff0000&line=ff0000&point=ff0000"/> </p>
