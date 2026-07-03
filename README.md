@@ -57,4 +57,4 @@ Open to **AI/Research Engineer roles**  remote or onsite.
 [LinkedIn](https://linkedin.com/in/sridip-basu) · [Kaggle](https://kaggle.com/sridipbasu) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
 
 ---
-[![Kaggle CLI Merged PRs](https://img.shields.io/github/issues-search/Kaggle/kaggle-cli?query=is%3Apr%20is%3Amerged%20author%3Asridipbasu&label=Kaggle%20CLI&color=red&style=for-the-badge)](https://github.com/Kaggle/kaggle-cli/pulls?q=is%3Apr+is%3Amerged+author%3Asridipbasu)
+<img src="https://img.shields.io/github/issues-search/Kaggle/kaggle-cli?query=is%3Apr%20is%3Amerged%20author%3Asridipbasu&label=Kaggle%20CLI&style=for-the-badge&logo=github&logoColor=white&color=red" width="500">
