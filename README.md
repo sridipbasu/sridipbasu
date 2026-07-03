@@ -57,12 +57,4 @@ Open to **AI/Research Engineer roles**  remote or onsite.
 [LinkedIn](https://linkedin.com/in/sridip-basu) · [Kaggle](https://kaggle.com/sridipbasu) · [Website](https://sridipbasu.github.io/) · sridip.zui@gmail.com
 
 ---
-<p align="center">
-  <a href="https://github.com/sridipbasu/rbi-regulatory-rag-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=rbi-regulatory-rag-chatbot&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&cache_seconds=1&v=1" />
-  </a>
-
-  <a href="https://github.com/sridipbasu/kaggle-notebooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridipbasu&repo=kaggle-notebooks&bg_color=0D1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&cache_seconds=1&v=1" />
-  </a>
-</p>
+[![Kaggle CLI Merged PRs](https://img.shields.io/github/issues-search/Kaggle/kaggle-cli?query=is%3Apr%20is%3Amerged%20author%3Asridipbasu&label=Kaggle%20CLI&color=red&style=for-the-badge)](https://github.com/Kaggle/kaggle-cli/pulls?q=is%3Apr+is%3Amerged+author%3Asridipbasu)
