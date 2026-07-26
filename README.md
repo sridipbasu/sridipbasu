@@ -1,3 +1,5 @@
+<img align="right" src="avatar-dots.png" width="150" alt="dotted avatar" />
+
 # Sridip Basu
 
 AI / Research Engineer · MS in AI & ML at IIIT Lucknow.
