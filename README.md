@@ -1,4 +1,4 @@
-<img align="right" src="avatar-yinyang.png" width="150" alt="dotted avatar" />
+<img align="right" src="avatar-dots.png" width="150" alt="dotted avatar" />
 
 # Sridip Basu
 
