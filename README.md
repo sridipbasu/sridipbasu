@@ -1,4 +1,4 @@
-<img align="right" src="avatar-dots.png" width="150" alt="dotted avatar" />
+<img align="right" src="avatar-yinyang.png" width="150" alt="dotted avatar" />
 
 # Sridip Basu
 
@@ -10,7 +10,7 @@ I work on applied ML systems (regulatory RAG, flood forecasting, agent evaluatio
 
 ## Open Source
 
-I contribute to [Kaggle's official CLI](https://github.com/Kaggle/kaggle-cli), the tool behind  `Kaggle Search`, `kaggle datasets`, `kaggle kernels`, and `kaggle competitions`.
+I contribute to [Kaggle's official CLI](https://github.com/Kaggle/kaggle-cli), the tool behind `Kaggle Search`, `kaggle datasets`, `kaggle kernels`, and `kaggle competitions`.
 
 <a href="https://github.com/Kaggle/kaggle-cli/pulls?q=is%3Apr+is%3Amerged+author%3Asridipbasu"><img src="https://img.shields.io/github/issues-search/Kaggle/kaggle-cli?query=is%3Apr%20is%3Amerged%20author%3Asridipbasu&label=merged%20PRs&style=flat-square&logo=github&logoColor=white&color=008000" alt="Merged PRs in Kaggle CLI"></a>
 
@@ -29,7 +29,9 @@ Recent work:
 ## Stack
 
 **Core:** Python · PyTorch · HuggingFace · scikit-learn · XGBoost
+
 **Infra:** FastAPI · Docker · MLflow · AWS
+
 **Data:** SQL · Power BI
 
 ---
